@@ -1,6 +1,6 @@
 # Hi there, I'm **Roman Ignatovich**! 👋
 
-<img align="right" alt="GIF"  src="https://media.giphy.com/media/l0MYzwTebntNEii4M/giphy.gif" />
+<img align="right" width = "100" height = "100" alt="GIF"  src="https://media.giphy.com/media/l0MYzwTebntNEii4M/giphy.gif" />
 
 #### Connect with me:
 <a href="https://vk.com/r1sel" target="_blank"><img height="35px" src="https://camo.githubusercontent.com/26be819fcce90f75668efeb7a432b969dcc35a1e4478149c3fcd48fda5b457c3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f766b2e737667" alt="Vk"></a>
